@@ -1,5 +1,5 @@
 <h1 align="left" id="jamesgardiner-title">:wave: Hi there! I'm James Gardiner</h1>
-<h3 align="left">I'm a developer, and I use Python for Web and Data Engineering</h3>
+<h3 align="left">I'm a developer, and I use Python for Data Engineering and Web Dev</h3>
 
 <p align="left">
   <a href="https://github.com/JamesGardiner?tab=followers">
@@ -14,7 +14,7 @@
 -->
 
 - :seedling: &nbsp;I’m currently learning **[HTMX]**
-- :dna: &nbsp; Contracting at **[AstraZeneca]**
+- :dna: &nbsp; Contracting at **[Genomics England]**
 - :speech_balloon: &nbsp;I like to talk about **Self-hosting**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Tweet me on **[Twitter]**
@@ -109,5 +109,5 @@
 [HTMX]: https://htmx.org/
 [linkedin]: https://www.linkedin.com/in/jrgardiner "James Gardiner LinkedIn"
 [twitter]: https://twitter.com/_JamesRG
-[AstraZeneca]: https://www.astrazeneca.co.uk/
+[Genomics England]: https://www.genomicsengland.co.uk/
 [Original]: https://github.com/MacroPower/MacroPower/blob/master/README.md
