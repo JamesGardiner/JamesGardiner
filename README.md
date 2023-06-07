@@ -1,5 +1,5 @@
 <h1 align="left" id="jamesgardiner-title">:wave: Hi there! I'm James Gardiner</h1>
-<h3 align="left">I'm a developer, and I use Python for Data Engineering and Web Dev</h3>
+<h3 align="left">I'm a developer, and I use Python for data engineering, geospatial applications and web development</h3>
 
 <p align="left">
   <a href="https://github.com/JamesGardiner?tab=followers">
@@ -15,7 +15,7 @@
 
 - :seedling: &nbsp;I’m currently learning **[Dask]** and French 🇫🇷
 - :dna: &nbsp; Contracting at **[Genomics England]**
-- :speech_balloon: &nbsp;I like to talk about **Self-hosting**
+- :speech_balloon: &nbsp;I like to talk about **Geospatial**, **Maps** and **Self-hosting** 
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Tweet me on **[Twitter]**
 
