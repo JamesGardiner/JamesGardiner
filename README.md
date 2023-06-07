@@ -13,7 +13,7 @@
 </a>
 -->
 
-- :seedling: &nbsp;I’m currently learning **[HTMX]**
+- :seedling: &nbsp;I’m currently learning **[Dask]** and French 🇫🇷
 - :dna: &nbsp; Contracting at **[Genomics England]**
 - :speech_balloon: &nbsp;I like to talk about **Self-hosting**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
@@ -40,28 +40,28 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="https://javascript.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
       <a href="https://reactjs.org/" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="https://tailwind.com" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="48" height="48" alt="Tailwind" />
+      <a href="https://leafletjs.com">
+        <img src="https://tarun-kamboj.github.io/images/tools/folium.png" alt="Folium" />
       </a>
-      <br>Tailwind
+      <br>Folium
     </td>
     <td align="center" width="96">
-      <a href="https://supabase.com/" >
-        <img src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/img/showcase-logo/supabase-logo.svg" width="48" height="48" alt="Supabase" />
+      <a href="https://geopandas.org" >
+        <img src="https://geopandas.org/en/stable/_static/geopandas_logo_web.svg" height="48" alt="GeoPandas" />
       </a>
-      <br>Supabase
+      <br>GeoPandas
+    </td>
+    <td align="center" width="96">
+      <a href="https://pandas.pydata.org" >
+        <img src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg" width="48" height="48" alt="Pandas" />
+      </a>
+      <br>Pandas
     </td>
   </tr>
   <tr>
@@ -107,6 +107,7 @@
 <!-- links -->
 
 [HTMX]: https://htmx.org/
+[Dask]: https://dask.org
 [linkedin]: https://www.linkedin.com/in/jrgardiner "James Gardiner LinkedIn"
 [twitter]: https://twitter.com/_JamesRG
 [Genomics England]: https://www.genomicsengland.co.uk/
