@@ -14,7 +14,7 @@
 -->
 
 - :seedling: &nbsp;I’m currently learning **[Dask]** and French 🇫🇷
-- :dna: &nbsp; Contracting at **[Genomics England]**
+- :dna: &nbsp; Contracting at **[UK Hydrographic Office]**
 - :speech_balloon: &nbsp;I like to talk about **Geospatial**, **Maps** and **Self-hosting** 
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Tweet me on **[Twitter]**
@@ -110,5 +110,5 @@
 [Dask]: https://dask.org
 [linkedin]: https://www.linkedin.com/in/jrgardiner "James Gardiner LinkedIn"
 [twitter]: https://twitter.com/_JamesRG
-[Genomics England]: https://www.genomicsengland.co.uk/
+[UK Hydrographic Office]: https://www.gov.uk/government/organisations/uk-hydrographic-office
 [Original]: https://github.com/MacroPower/MacroPower/blob/master/README.md
